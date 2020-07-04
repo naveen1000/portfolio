@@ -1,0 +1,23 @@
+
+Corona Updates
+In this you get latest data of covid-19 cases of all states and in total. This was developed using Flask and deployed in heroku cloud platform
+
+
+Crick Notify
+In this you get notified with score for every over and wicket fall. This was developed using Python & Firebase and deployed in AWS Cloud. 
+
+Corona Notify
+In this you get notified with covid-19 cases daily at 9PM IST in Telegram Channel. This was developed using Python and deployed as Lamda function in AWS.
+
+Voice Controlled Display
+This is used to display the text spoken by the user through Google assistant in LED Matrix Display. This was done using NodeMCU and LED Matrix Display as hardware and used IFTTT & Adafruit as software platforms.
+
+
+Processor
+In this we developed an 8-bit RISC Processor which can execute all kind of instructions using Verilog HDL.
+
+Remotely Control PC Keyboard from Other via Web
+This is used to control Keyboard of one pc from another in same network. This Web was done using Python, Flask and Web Sockets
+
+Windows PC Hack
+
