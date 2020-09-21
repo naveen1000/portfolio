@@ -1,0 +1,11 @@
+.height-50{
+    min-height: 50vh;
+}
+
+.height-80{
+    min-height: 80vh;
+}
+
+.height{
+    min-height: 100vh;
+}
